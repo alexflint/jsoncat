@@ -1,0 +1,1 @@
+from .jsoncat import loads
