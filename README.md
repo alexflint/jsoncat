@@ -1,5 +1,7 @@
 A pretty-printer for files containing more than one json object. 
 
+## Overview
+
 Consider the following file:
 
 ```json
@@ -28,7 +30,7 @@ The contents of this file do not constitute a valid json object when taken as a 
 ## Installation
 
 ```bash
-pip install jsoncat
+pip install jsoncatcmd
 ```
 
 ## Usage
